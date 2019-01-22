@@ -3,3 +3,5 @@
 ## About me
 
 Hello world!
+
+![](images/digital-huge-manatees.jpg)
