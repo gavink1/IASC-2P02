@@ -5,3 +5,7 @@
 Hello world!
 
 ![](images/digital-huge-manatees.jpg)
+
+## Blog post
+
+Lorem ipsum dolor sit amet... [continue reading](blog)
