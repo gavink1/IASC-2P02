@@ -12,7 +12,11 @@ http and https sites, but if you're embedding this into a local web page (file p
 you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
 it depends on this server.
 Feel free to change the height and width values or other styling below: -->
+<!--
 <iframe style='width: 580px; height: 463px;' src='//voyant-tools.org/tool/Trends/?query=novel&corpus=3c6ed61edb2bcec5e52329dc5f99b8a7'></iframe>
+-->
+
+<iframe style="width:650px; height: 750px; src="processing/empty-example/index.html"></iframe>
 
 Mauris elementum eget lectus cursus tempus. Nam facilisis in mauris eget bibendum. Fusce feugiat lacus ultrices auctor vulputate. Phasellus porta non mauris sit amet ultrices. Nullam aliquet tincidunt purus, in ultricies nisi consequat sed. Vivamus facilisis auctor nibh non rhoncus. Suspendisse vitae nisl feugiat massa tincidunt mollis in sed dolor. Ut sit amet sem finibus, dignissim lacus at, vestibulum elit. Aliquam at lorem facilisis, rhoncus nibh non, pellentesque massa. Ut fermentum sed augue in luctus. Sed eu venenatis dui, id tempor risus. Quisque convallis quam quam, eget fermentum odio elementum a.
 
