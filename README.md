@@ -9,3 +9,7 @@ I am an Assistant Professor in Digital Prototyping at Brock University’s Centr
 ## Blog post
 
 Lorem ipsum dolor sit amet... [continue reading](blog)
+
+## Solo Presentation
+
+[Title of presentation](reveal/index.html)
