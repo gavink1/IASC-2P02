@@ -22,7 +22,7 @@ Mauris elementum eget lectus cursus tempus. Nam facilisis in mauris eget bibendu
 
 Nunc vel magna sit amet quam feugiat pharetra eu quis tellus. Praesent fermentum leo nec diam vehicula euismod. Maecenas id est eget orci commodo dignissim at vitae felis. Pellentesque consequat imperdiet turpis, quis ultrices ex vehicula sed. Fusce vel congue sem. Nulla dui eros, molestie eu pharetra ut, auctor nec odio. Mauris consectetur auctor sem vel hendrerit. Nam ultrices in nisi et interdum. Aenean aliquet nulla lorem, at dapibus quam ultricies et.
 
-Fusce sed vestibulum urna. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In pharetra, magna interdum malesuada vehicula, nisi orci suscipit velit, quis tempor tortor sem id sem. Pellentesque aliquet molestie dui, id lobortis sapien lobortis a. Sed urna nunc, feugiat in odio vitae, fringilla fermentum ante. Nulla dignissim felis nec ante tempor, sed vehicula libero facilisis. Curabitur sit amet leo aliquam, maximus lorem eu, maximus enim.
+This is my new final paragraph. I don't speak latin anymore; now I know how to write in English. I learned a lot in IASC 2P02.
 
 ## Works Cited
 
