@@ -6,7 +6,7 @@
 
 I am a second year student in the IASC program at Brock University. My research area is text analysis, and my research program involves doing x and y things with text analysis tools. This research focus is reflected in my projects in this portoflio, such as project a that looks at b. Similarly, project c looks at d. I'd like to continue with this work in the future by doing x.
 
-![](images/manatees.jpg)
+![](images/digital-huge-manatees.jpg)
 
 ## Featured Project: [Title of project here]
 
