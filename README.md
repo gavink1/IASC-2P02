@@ -22,7 +22,7 @@ Read [Title goes here](blog)
 
 Here is my 100-word project description.
 
-Here is my 250-word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here]()). I also approach collaboration in a ways, which is reflected in b work (available [here]()). I also contributed x assets to my team, seen below.
+Here is my 250-word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/5ffe79e41eabd264a3ebece22f74ebaa9de748c6)). I also approach collaboration in a ways, which is reflected in b work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/2ae52b7e79c421887a29001ff5d54b49d09c7026)). I also contributed x assets to my team, seen below.
 
 ![](images/collaboration.jpg)
 
