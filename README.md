@@ -1,15 +1,36 @@
-# IASC-2P02 | Alex Christie
+# IASC 2P02 | Alex Christie
 
-## About me
+**Note to students. DO NOT simply fill in the text here with your own words. Read the assignment sheet carefully and make sure you are doing everything it asks for.**
 
-I am an Assistant Professor in Digital Prototyping at Brock University’s Centre for Digital Humanities. I completed my doctorate at the University of Victoria, where I conducted research on 3D geospatial expression and scholarly communication for the Modernist Versions Project (MVP) and Implementing New Knowledge Environments (INKE) in the Electronic Textual Cultures Lab (ETCL) and the Maker Lab. I also developed an open source toolkit for digital humanities pedagogy with grant funding from the Association for Computers and the Humanities (ACH). I am currently working on a book-length history of the mechanical production and interpretation of texts before the advent of digital computing.
+## Bio
 
-![](images/digital-huge-manatees.jpg)
+I am a second year student in the IASC program at Brock University. My research area is text analysis, and my research program involves doing x and y things with text analysis tools. This research focus is reflected in my projects in this portoflio, such as project a that looks at b. Similarly, project c looks at d. I'd like to continue with this work in the future by doing x.
 
-## Blog post
+![](images/manatees.jpg)
 
-Lorem ipsum dolor sit amet... [continue reading](blog)
+## Featured Project: [Title of project here]
 
-## Solo Presentation
+![](images/featured.jpg)
 
-[Title of presentation](reveal/index.html)
+Here are 250 words introducing this work.
+
+Here is my 250-word statement describing how this research evolved over time. I made these changes, which you can see [here](). I also made these changes, which you can see [here](). I also made these changes, which you can see [here](). Overall these changes show x and y changes in my thinking.
+
+Read [Title goes here](blog)
+
+## Collaborative Project
+
+Here is my 100-word project description.
+
+Here is my 250-word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here]()). I also approach collaboration in a ways, which is reflected in b work (available [here]()). I also contributed x assets to my team, seen below.
+
+![](images/collaboration.jpg)
+
+
+## Research Presentation
+
+[Title goes here](reveal/index.html)
+
+## Academic Blog
+
+[Title goes here](blog)
