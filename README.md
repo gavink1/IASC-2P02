@@ -14,7 +14,7 @@ I am a second year student in the IASC program at Brock University. My research 
 
 Here are 250 words introducing this work.
 
-Here is my 250-word statement describing how this research evolved over time. I made these changes, which you can see [here](). I also made these changes, which you can see [here](). I also made these changes, which you can see [here](). Overall these changes show x and y changes in my thinking.
+Here is my 250-word statement describing how this research evolved over time. I made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/e988a63313929f7cbc1ec1fcda305aa3e536a342). I also made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/a778e6e587cb17d99e430e18bae3e4e0d0d128b5). I also made these changes, which you can see [here](https://github.com/IascAtBrock/IASC-2P02/commit/2a63e808d7e977fbf58a29a5626189876dbf1934). Overall these changes show x and y changes in my thinking.
 
 Read [Title goes here](blog)
 
